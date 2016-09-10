@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+td {
+    background-color: grey;
+    width: 500px;
+}
+
+img {
+    height: 100px;
+}
